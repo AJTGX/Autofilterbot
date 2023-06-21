@@ -192,7 +192,7 @@ Message <b>: {}</b>"""
 
 ❤️‍🔥 </i>Join</i> [ARAKAL_THERAVAD_MOVIES](https://t.me/oTTGArakalTheravadMovies)  
 
-🖥 <i>Requests</i> - ||@raixpiro_bot|| """
+🖥 <i>Requests</i> - ||@AMMUV2BOT|| """
 
     IMDB_TEMPLATE_TXT = """
 🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> 
