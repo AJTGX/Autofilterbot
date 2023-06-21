@@ -32,7 +32,7 @@ class script(object):
 Special Thanks to EvaMaria Devs & Cloners for the codes 
 <b>DEV:</b>
 
-- <a href=https://t.me/CKFLICKS>『CKFLICKS』</a>
+- <a href=https://t.me/oTTGArakalTheravadMovies>『ARAKAL_THERAVAD_MOVIES』</a>
 
 - Source - https://github.com/ritheshrkrm/PiroAutoFilterBot""" #please don't change repo link give credit :)
 
