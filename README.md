@@ -1,3 +1,11 @@
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/soulpc/Anya-Forger)
+
+
+
+
+
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙰𝙽𝚈𝙰+𝙱𝙾𝚃+!;𝙰+𝙿𝙾𝚆𝙴𝚁𝙵𝚄𝙻+𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁+𝙱𝙾𝚃+!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+@𝙰𝙼_𝙵𝙸𝙻𝙼𝚂!)</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://te.legra.ph/file/85c75538ff6fb565c821a.jpg" alt="anya bot logo">
